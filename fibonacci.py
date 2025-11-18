@@ -237,7 +237,20 @@
 # numbers=[]
 # for i in list:
 #     if type(i)==str:
-#         names.append(i)
+#         names
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# .append(i)
 #     if type(i)==int:
 #         numbers.append(i)
 #     print(f"separated names are",names)
