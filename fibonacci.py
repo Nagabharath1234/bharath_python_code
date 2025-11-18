@@ -10,16 +10,16 @@
 #         print(res)
 
 
-num=int(input("enter the number:"))
-a,b=0,1
-for i in  range(0,num):
-    if i<=0:
-        print(i)
-    else:
-        res=a+b
-        a=b
-        b=res
-        print(res)
+# num=int(input("enter the number:"))
+# a,b=0,1
+# for i in  range(0,num):
+#     if i<=0:
+#         print(i)
+#     else:
+#         res=a+b
+#         a=b
+#         b=res
+#         print(res)
 
 '''python program to solve the fibonacci sequence using recursion'''
 # def fib(n):

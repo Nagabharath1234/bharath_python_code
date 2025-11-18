@@ -241,13 +241,14 @@
 # else:
 #     print(f"it is a prime num")
 
-list=[1,"bharath",2,3,4,5,6,7,"naveen","ashok"]
-names=[]
-numbers=[]
-for i in list:
- if type(i)==str:
-  names.append(i)
- if type(i)==int:
-   numbers.append(i)
-print(f"the seperation of names are {names}")
-print(f"the separation of numbers are {numbers}")
+# list=[1,"bharath",2,3,4,5,6,7,"naveen","ashok"]
+# names=[]
+# numbers=[]
+# for i in list:
+#  if type(i)==str:
+#   names.append(i)
+#  if type(i)==int:
+#    numbers.append(i)
+# print(f"the seperation of names are {names}")
+# print(f"the separation of numbers are {numbers}")
+

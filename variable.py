@@ -1,6 +1,4 @@
 '''variables are used to store the values it acts like a container'''
-
-
 # variable = values
 # a=10
 # print(a)
@@ -227,15 +225,15 @@
 #     rev=i+rev
 # print(rev)
 
-def calculator(a,b,operator):
-    if operator=="+":
-        print(a+b)
-    elif operator=="-":
-        print(a-b)
-    elif operator=="*":
-        print(a*b)
-    elif operator=="/":
-        print(a/b)
-    else:
-        print("invalid input!")
-print(calculator(2,3,"*"))
+# def calculator(a,b,operator):
+#     if operator=="+":
+#         print(a+b)
+#     elif operator=="-":
+#         print(a-b)
+#     elif operator=="*":
+#         print(a*b)
+#     elif operator=="/":
+#         print(a/b)
+#     else:
+#         print("invalid input!")
+# print(calculator(2,3,"*"))

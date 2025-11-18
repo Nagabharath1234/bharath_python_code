@@ -285,19 +285,21 @@
 # for i in range(1,11):
 #     print(f"{num} x {i} = {num*i}")
 
-def calculator(operator,a,b):
-    if operator == "+":
-        return (a+b)
-    elif operator == "-":
-        return (a-b)
-    elif operator == "*":
-        return (a*b)
-    elif operator == "/":
-        return (a/b)
-    else:
-        return ("invalid input")
-res=calculator("-",3,6)
-print(res)
+# def calculator(operator,a,b):
+#     if operator == "+":
+#         return (a+b)
+#     elif operator == "-":
+#         return (a-b)
+#     elif operator == "*":
+#         return (a*b)
+#     elif operator == "/":
+#         return (a/b)
+#     else:
+#         return ("invalid input")
+# res=calculator("-",3,6)
+# print(res)
+
+
 
 
     

@@ -12,10 +12,7 @@
 # else:
 #     print(f"it is odd num")
 
-num=int(input("enter the number"))
-for i in range(0,11):
-    if num%i==0:
-        print(i)
+
 
 
 # a="helloworld"

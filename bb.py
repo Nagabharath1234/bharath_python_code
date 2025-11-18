@@ -53,10 +53,10 @@
 #         b=res
 #         print(res)
 
-num=int(input("enter the number:"))
-for i in range(2,num):
-    if (i%num)==0:
-        print(f"it is  not prime num")
-        break
-else:
-    print(f"it is a prime num")
+# num=int(input("enter the number:"))
+# for i in range(2,num):
+#     if (i%num)==0:
+#         print(f"it is  not prime num")
+#         break
+# else:
+#     print(f"it is a prime num")
