@@ -1,0 +1,82 @@
+''' exception handling is used catch the errors. it means exceptions are errors that occurs during the
+execution of the program'''
+
+# a=1
+# print(b)
+''' try is used to catch the handle exceptions
+except is used to run if no exception occurs
+finally is always runs automatically no matter it occur errors'''
+# try:
+#     print('b')  # risky code
+# except:
+#     print("error")
+# else:
+#     print("no error")
+# finally:
+#     print("always")
+
+# try:
+#     print('a'+33)
+# except TypeError:
+#     print("type error")
+# except ValueError:
+#     print("value error")
+
+# for a in range(10,30):
+#     a=1
+#     print(a)
+
+# for i in range(1,12):
+#     i=5
+#     print(i)
+
+# for i in range(5):
+#     i=7
+#     i=8
+#     print(i)
+
+# for i in range(0,9):
+#    if i==5:
+#        break
+#    print(i)
+
+# for i in range(0,20):
+#     if i==15:
+#         continue
+#     print(i)
+
+# for i in range(0,9):
+#     if i==4:
+#         pass
+#     print(i)
+
+# age=12
+# if age>18:
+#     print("adult")
+# elif age==18:
+#     print("become adult")
+# else:
+#     print("minor")
+
+# for i in range(1,9):
+#     print(i)
+
+# n=20
+# while n<25:
+#     n+=1
+#     print(n)
+
+# def function(a,b):
+#     return a+b
+# result= function(3,4)
+# print(result)
+
+# def my_length(data):
+#     count=0
+#     for _ in data:
+#         count+=1
+#     return count
+    
+# my_list=[1,2,3,4,5,6]
+# print("length of list:",my_length(my_list))
+
